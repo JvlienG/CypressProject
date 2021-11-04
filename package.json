@@ -1,0 +1,34 @@
+{
+  "name": "cypress_proj",
+  "version": "1.0.0",
+  "description": "Projet formation Cypress",
+  "main": "index.js",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JvlienG/CypressProject.git"
+  },
+
+  "author": "",
+  "license": "ISC",
+  
+  "bugs": {
+    "url": "https://github.com/JvlienG/CypressProject/issues"
+  },
+
+  "homepage": "https://github.com/JvlienG/CypressProject#readme",
+  
+  "devDependencies": {
+    "cypress": "^8.7.0",
+    "cypress-cucumber-preprocessor": "^4.3.0"
+  },
+
+  "cypress-cucumber-preprocessor": { 
+    "nonGlobalStepDefinitions": false,
+    "stepDefinitions" : "cypress/cucumber/stepDefinitions"
+  }
+}
