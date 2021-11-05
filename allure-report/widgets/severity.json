@@ -1,0 +1,11 @@
+[ {
+  "uid" : "770ceed51df75cc7",
+  "name" : "Access the home page",
+  "time" : {
+    "start" : 1636066104906,
+    "stop" : 1636066105003,
+    "duration" : 97
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

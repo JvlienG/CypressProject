@@ -1,0 +1,22 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "children" : [ {
+    "name" : "Front end testing",
+    "children" : [ {
+      "name" : "Access the home page",
+      "uid" : "770ceed51df75cc7",
+      "parentUid" : "29732f8454a5bf969b997f325a8f95e8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1636066104906,
+        "stop" : 1636066105003,
+        "duration" : 97
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "29732f8454a5bf969b997f325a8f95e8"
+  } ],
+  "name" : "packages"
+}

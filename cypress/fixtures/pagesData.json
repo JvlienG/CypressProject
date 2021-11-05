@@ -1,0 +1,13 @@
+{
+    "pageAccessData": [
+        {
+            "pageUrlEndpoint": "/app",
+            "pageSpecificElement": ".appDownload-module--container--DkTK9"
+        }, 
+        {
+            "pageUrlEndpoint": "/blog",
+            "pageSpecificElement": ".section-module--section--wWB4f" 
+        }
+    ]
+}
+    

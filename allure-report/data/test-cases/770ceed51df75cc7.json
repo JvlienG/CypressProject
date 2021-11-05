@@ -1,0 +1,46 @@
+{
+  "uid" : "770ceed51df75cc7",
+  "name" : "Access the home page",
+  "fullName" : "Front end testing.Access the home page",
+  "historyId" : "20ad9698efcbacf96df9e88a4a883030",
+  "time" : {
+    "start" : 1636066104906,
+    "stop" : 1636066105003,
+    "duration" : 97
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Front end testing"
+  }, {
+    "name" : "testClass",
+    "value" : "Front end testing"
+  }, {
+    "name" : "testMethod",
+    "value" : "Access the home page"
+  }, {
+    "name" : "package",
+    "value" : "Front end testing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "770ceed51df75cc7.json",
+  "parameterValues" : [ ]
+}
